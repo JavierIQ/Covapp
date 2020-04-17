@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Covapp</string>
+    <string name="titleFirstSlide">Hola Mundo 1</string>
+    <string name="titleSecondSlide">Hola Mundo 2</string>
+    <string name="titleThirdSlide">Hola Mundo 3</string>
 </resources>
