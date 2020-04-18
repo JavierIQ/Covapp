@@ -3,13 +3,12 @@
     android:padding="64dp"
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:background="#A472FC"
+    android:background="@color/lightBluePatern"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
     <TextView
-        android:textColor="@color/white"
         android:textAlignment="center"
         android:textSize="24sp"
         android:textStyle="bold"
@@ -45,7 +44,6 @@
     </LinearLayout>
 
     <TextView
-        android:textColor="@color/white"
         android:layout_marginTop="12dp"
         android:id="@+id/textView"
         android:layout_width="wrap_content"
